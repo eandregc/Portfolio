@@ -1,0 +1,8 @@
+(10/22)	Wordle Game. 
+
+Academic project for a 3-month course. 
+Developed using python, content as: lists, arrays, strings, and files(.csv). 
+
+This was a two-people team project. I was the team leader and code developer. 
+The compiler gives you a definition, the user has three attempts to guess the concept word, 
+each attempt shows the user the input word letters that are in the same position as the ones of the answer.
