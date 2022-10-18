@@ -1,0 +1,21 @@
+moda,Estadistica basica: Es el valor que mas se repite en una serie de datos
+media,Estadistica basica: Tambien conocido como promedio y se obtiene al sumar todos los datos y dividirlo entre el numero total de datos
+mediana,Estadistica basica: Es el valor que esta al medio cuando los datos se ordenan de menor a mayor
+dominio,Funciones: En una funcion son los valores de entrada (x) tambien conocida como la variable independiente
+rango,Funciones: En una funcion son los valores de salida (y) tambien conocida como la variable dependiente (la que depende de otros factores. 
+funcion,Funciones: Es una relacion que se establece entre dos conjuntos a traves de la cual a cada elemento del primer conjunto (dominio=valores de x) se le asigna un unico elemento del segundo conjunto (rango= valores de y). El dominio no se puede repetir pero el rango s­i.
+lineal,Funciones: Tipo de funcion (y=mx+b) que forma una l­inea recta con pendiente igual a m
+cuadratica,Funciones: Tipo de funcion con exponente igual a 2 que forma una parabola. 
+factores,Operaciones: En una multiplicacion a los numeros que se multiplican se les llama
+producto,Operaciones: El resultado de una multiplicacion recibe el nombre de
+enteros,Clasificacion de los numeros: Tipo de numeros que no poseen una parte decimal van desde los negativos hasta los positivos
+decimales,Clasificacion de los numeros: Tipo de numeros que tienen una parte decimal e incluyen de los negativos hasta los positivos
+naturales,Clasificacion de los numeros: Tipo de numeros que incluyen solo los enteros positivos
+racionales,Clasificacion de los numeros: Tipo de numeros que incluyen los numeros decimales finitos o periodicos al igual que fracciones y enteros
+irracionales,Clasificacion de los numeros: Tipo de numeros con decimales infinitos no periodicos
+reales,Clasificacion de los numeros: Tipo de numeros que incluyen tanto los numeros racionales como los irracionales
+primo,Clasificacion de los numeros: Tipo de numero que solo se puede dividir entre 1 y el mismo numero
+pemdas,Operaciones: Orden de operaciones: Parentesis Exponente Multiplicacion Division Adicion Sustraccion 
+propia,Fracciones: Tipo de fraccion en las que el numerador siempre es menor que el denominador
+impropia,Fracciones: Tipo de fraccion en las que el numerador siempre es mayor que el denominador
+pendiente,Funciones: Se le conoce tambien como razon de cambio y en una funcion lineal esta definida como m
