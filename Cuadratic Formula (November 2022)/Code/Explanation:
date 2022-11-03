@@ -1,0 +1,7 @@
+(10/22) Cuadratic Formula Calculator. 
+
+Personal Project. 
+Developed using C++. 
+
+The compiler asks you for the values of "A","B" & "C" at the format (Ax^2 + Bx + C), then
+outputs the two possible "X's" results. If there is no possible "X's" it will print "Cannot be performed".
