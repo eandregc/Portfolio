@@ -5,7 +5,7 @@ Developed using MATLAB, content as: classes, lists, arrays, strings.
 
 This was a four-people team project. I was the team leader and code developer. 
 
-The compiler asks you a initial velocity, angle (In decimal), projectile's diameter and mass. 
+The compiler asks you aN initial velocity, angle (In decimal), projectile's diameter and mass. 
 Then, it simulates a volcano's eruption, the first two projectiles are the ones with the input conditions, 
 the first one with friction and the second without friction. After that, another three pairs of projectiles 
 (With and without friction) are simulated with pre-established conditions. 
