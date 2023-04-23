@@ -7,4 +7,4 @@ This was an individual project. I was the the code developer.
 
 The compiler asks you for the name of the playlist, then you can enter in each line the information 
 of each song (Autor, album, duration). When you left a white space all the information of all the songs 
-in the playlist is display in a music playback format (it can select between sorted or random).
+in the playlist is display in a music playback format it can select between sorted or random.
