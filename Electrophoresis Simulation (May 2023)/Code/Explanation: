@@ -7,6 +7,6 @@ This was a four-people team project. I was the team leader and code developer.
 
 The compiler use an interface and ask for the heigh of the plates, separation between plates, and magnitude 
 of charge in each plate. On the other hand, ask for the data of a particle, mass, magnitude of charge, and 
-velocity. Then, it simulates an electric field between the plates with all the directions and valeus of magnitude. 
+velocity. Then, it simulates an electric field between the plates with all the directions and values of magnitude. 
 After that, a particle appear above and goes down through the capacitator that the plates create. Acting with 
 respect to the colulumb law and simulating a electrophoresis process. 
