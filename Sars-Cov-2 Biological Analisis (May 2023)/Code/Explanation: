@@ -5,8 +5,8 @@ Developed using R, content as: Genbank, libraries, classes, lists, arrays, strin
 
 This was an individual project. I was the code developer. 
 
-The compiler asks you nothing, all the information is in the code script.
-The code analyze the codes for the viruses that are Sars-Cov-2 variants, then
+The compiler asks you nothing, all the inputs are in the code script.
+The code analyzes the genetic codes for the viruses that are Sars-Cov-2 variants, then
 transcript them from raw to string. Finally, setting some comparison graphics 
 to analyze their relation between the variants (phylogenetic tree) and their 
 composition (nucleotides).
