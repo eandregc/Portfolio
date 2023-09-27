@@ -1,0 +1,14 @@
+(09/23) Terminal Database System.
+
+Academic project for a 5-week course. 
+Developed using C++, content as: algorithms for data retrieval, search, and organization.
+
+This was an individual project. I was the code developer. 
+
+Upon execution, the database system prompts the user for the file path of the dataset. 
+The program then processes and organizes the data, enabling precise access to specified 
+information and defined data ranges. Subsequently, the system generates two output files: 
+one with meticulously organized data entries (sorted by Date, Time, Name), and another 
+containing the specified range of data. The system provides a user-friendly terminal 
+interface for seamless interaction with the organized data, allowing for efficient data 
+retrieval and manipulation.
